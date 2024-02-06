@@ -27,6 +27,6 @@
 
 ##
 
-- 🌱 Estudando Progamção Web
+- 🌱 Estudando Programação Web
 - 📚 Bacharelado em Ciências da Computação 
 - ⚙️ Técnico em Manutenção e Suporte de Imformática
