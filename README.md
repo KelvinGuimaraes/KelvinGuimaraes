@@ -21,7 +21,6 @@
 
 <div> 
   <a href="https://instagram.com/kelvin__guima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kelvin-guimarães-1331522b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 ##
 - ✉️ Contato: kelvingui18@gmail.com
