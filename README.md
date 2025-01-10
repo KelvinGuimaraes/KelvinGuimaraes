@@ -1,4 +1,4 @@
-### Oioi eu sou Kelvin Guimarães
+### Olá eu sou Kelvin Guimarães
 
 <div>
 <a href="[https://github.com/KelvinGuimaraes/github-readme-stats]">
