@@ -1,4 +1,4 @@
-### Olá, seja bem vindo!!
+### Olá, seja bem vindo(a)!!!
 
 <div>
 <a href="[https://github.com/KelvinGuimaraes/github-readme-stats]">
