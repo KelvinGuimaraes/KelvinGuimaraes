@@ -20,6 +20,6 @@
 
 ##
 - ✉️ Contato: kelvingui18@gmail.com
-- 🌱 Estudando Programação Web
+- 🧑🏻‍💻 Software Developer
 - 📚 Bacharelado em Ciências da Computação 
 - ⚙️ Técnico em Manutenção e Suporte de Imformática
