@@ -19,6 +19,6 @@
 
 ##
 - ✉️ Contato: kelvingui18@gmail.com
-- 🧑🏻‍💻 Software Developer
+- 🧑🏻‍💻 Front-End Developer
 - 📚 Bacharelado em Ciências da Computação 
 - ⚙️ Técnico em Manutenção e Suporte de Imformática
