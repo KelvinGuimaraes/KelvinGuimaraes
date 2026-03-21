@@ -27,14 +27,12 @@
   <img 
     width="49%" 
     height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=KelvinGuimaraes&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=KelvinGuimaraes&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117&locale=pt-br&cache_seconds=86400" 
   /> 
   <img 
-    width="41%" 
+    width="49%" 
     height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinGuimaraes&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinGuimaraes&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117&locale=pt-br&cache_seconds=86400" 
   />
 </div>
 
