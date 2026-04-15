@@ -21,7 +21,7 @@
 </div>
 
 ---
-<!---->
+<!--
 <div align="center">
   <img alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img alt="react" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -29,9 +29,9 @@
   <img alt="javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="html" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="css" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />        
-</div>
+</div>-->
           
-<!-- GitHub Stats 
+<!-- GitHub Stats -->
 <div align="center">  
   <img 
     width="49%" 
@@ -44,7 +44,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinGuimaraes&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117&cache_seconds=86400" 
   />
 </div>
--->
+
 ---
 
 <!-- Snake Animation -->
